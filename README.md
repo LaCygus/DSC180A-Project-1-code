@@ -11,3 +11,5 @@ Download the Broden dataset (images only) using bash dlbroden.sh
 (Optional) Download ResNet-18 pretrained on Places-365: bash dlzoo_example.sh
 
 We do not provide download instructions for ImageNet data, to evaluate using your own copy of ImageNet validation set you must set the correct path in DATASET_ROOTS["imagenet_val"] variable in data_utils.py
+
+PLEASE RUN "layer 1.ipynb" FIRST AND OTHERS CONTINUOUSLY!
